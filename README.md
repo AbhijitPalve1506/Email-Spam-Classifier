@@ -84,11 +84,6 @@ streamlit run app.py
 - Integrate phishing URL detection inside messages.
 - Add multilingual spam detection.
 
-## 👨‍💻 Authors
-
-- Abhijit Palve
-- Kalpak Kulkarni
-
 ## 🙏 Acknowledgements
 
 - [NLTK](https://www.nltk.org/)
